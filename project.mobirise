@@ -1651,7 +1651,7 @@
             },
             ".section-text": {
               "padding": "2rem 0",
-              "color": "#f40a0a"
+              "color": "#232323"
             },
             ".inner-container": {
               "margin": "0 auto"
