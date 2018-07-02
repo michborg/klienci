@@ -1785,3 +1785,20 @@ body {
 .cid-qWG8nBWPhm .mbr-section-subtitle {
   color: #767676;
 }
+.cid-qWGetEuTPq {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #fafafa;
+}
+.cid-qWGetEuTPq .testimonial-text {
+  font-style: italic;
+  color: #676767;
+  font-weight: 300;
+}
+.cid-qWGetEuTPq .mbr-author-name {
+  font-weight: bold;
+  color: #f40a0a;
+}
+.cid-qWGetEuTPq .mbr-author-desc {
+  color: #232;
+}
